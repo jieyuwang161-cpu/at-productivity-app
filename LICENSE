@@ -1,24 +1,47 @@
-This is free and unencumbered software released into the public domain.
+A.T Personal Use License (No Derivatives)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 [YOUR NAME]. All rights reserved.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. GRANT OF USE
+Permission is granted to any person to use the A.T application and its
+accompanying files (the "Software") for personal or internal purposes,
+free of charge, exactly as provided by the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+2. RESTRICTIONS
+You may NOT, without prior written permission from the copyright holder:
+  a. modify, adapt, translate, remix, or create derivative works based on
+     the Software, in whole or in part;
+  b. copy, fork, redistribute, republish, sublicense, sell, rent, or lease
+     the Software or any portion of it, whether modified or unmodified;
+  c. use the Software's code, design, text, icons, or other assets as part
+     of any other project, product, or service;
+  d. remove or alter any copyright notice or attribution;
+  e. reverse engineer or extract assets from the Software for the purpose
+     of reproducing or imitating it.
+
+3. OWNERSHIP
+The Software is licensed, not sold. All rights, title, and interest,
+including all intellectual property rights, remain with the copyright
+holder. No rights are granted except those expressly stated in this
+license.
+
+4. USER DATA
+Data you enter into the Software belongs to you. Nothing in this license
+grants the copyright holder ownership of your data.
+
+5. TERMINATION
+This license terminates automatically if you breach any of its terms. Upon
+termination, you must stop using the Software and delete all copies.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <https://unlicense.org>
+For permission requests, contact: [YOUR EMAIL]
